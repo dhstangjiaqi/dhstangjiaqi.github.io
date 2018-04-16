@@ -11,7 +11,8 @@ My Personal Portfolio Website
 
   <h2> Where  you'll find me. </h2>
   <p>middle of the Pacific ocean.</p>
-      
+  <h3> my hobbies</h3>
+  <p> i love to eat and sleep</p>
 </body>
 </html>
 
