@@ -12,7 +12,7 @@ My Personal Portfolio Website
   <p> i like my friends and studies in dunman high.</p>
   
   <h2> Where  you'll find me. </h2>
-  <p> i live in punggol field.</p>
+  <p>middle of the ocean.</p>
       
 </body>
 </html>
