@@ -15,6 +15,7 @@ p{
 }
 
 body {
-background:https://www.bing.com/images/search?view=detailV2&ccid=Zu2%2fd3nG&id=F47856788050CCEC7F3BC868A5E6A52FBAFA67F8&thid=OIP.Zu2_d3nGC73EOtMGH4p3QQHaFj&mediaurl=https%3a%2f%2fwww.pptgrounds.com%2fwp-content%2fuploads%2f2014%2f11%2fBlue-polygonal-backgrounds.jpg&exph=1200&expw=1600&q=backgrounds&simid=608000584893400313&selectedIndex=6
+background image:url("img_tree.gif"), url("paper.gif");
+background colour:#cccccc;
 }
 </html>
