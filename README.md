@@ -4,7 +4,7 @@ My Personal Portfolio Website
 <link rel="stylesheet" type="text/css" href="style.css">
 <body>
   <h1> my Space </h1>
-  <img src="photo01.jpg"/>
+  <img src="https://www.pexels.com/search/girl/"/>
   <h2> You got to get to know me. </h2>
   <p> My name is tang jiaqi and i was born in china
   before coming to singapore to continue my studies.</p>
