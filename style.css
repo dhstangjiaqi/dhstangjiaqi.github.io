@@ -1,16 +1,15 @@
 
- h1{
-  font-family: verdana;
-  color:#00b33c;
+  font-family: #00ffff;
+  color:blue;
 }
 
  h2{
-  font-family: verdana;
+  font-family:#00ffff ;
   color:#00b33c;
 }
 
 p{
- font-family: verdana;
+ font-family: #00ffff;
 }
 
 body {
